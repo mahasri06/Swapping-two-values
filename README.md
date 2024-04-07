@@ -31,7 +31,8 @@ print("Swapped values are:",a,b)
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2024-04-07 at 3.49.46 PM.png>)
+![Alt text](<Screenshot 2024-04-07 at 3.49.46 PM-1.png>)
+
 
 
 
