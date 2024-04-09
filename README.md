@@ -30,7 +30,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 
-![Alt text](<Screenshot 2024-04-07 at 3.49.46 PM-2.png>)
+### OUTPUT:
+![OUTPUT](<IMAGE 2.png>)
 
 
 
