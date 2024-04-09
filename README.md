@@ -31,7 +31,7 @@ print("Swapped values are:",a,b)
 ```
 
 ### OUTPUT:
-/Users/mahasripandian/Desktop/image2.png
+![Alt text](<IMAGE 2.png>)
 
 
 
