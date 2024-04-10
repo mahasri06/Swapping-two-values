@@ -1,9 +1,4 @@
 # Swapping-two-values
-NAME : Mahasri P
-
-REGISTER NUMBER : 212223100029
-
-DEPT : AIDS
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -24,7 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-
+Program developed by: Mahasri P.
+register number:212223100029
 a=input()
 b=input()
 c=a
@@ -35,7 +31,8 @@ print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
 
-<img width="1105" alt="Screenshot 2024-04-09 at 7 56 27 PM" src="https://github.com/mahasri06/Swapping-two-values/assets/139841897/d205044c-3fe9-4cd6-b5ef-409252ed9b2e">
+![image](https://github.com/mahasri06/Swapping-two-values/assets/139841897/9be39c83-bdba-40ff-8f31-01c85773b446)
+
 
 
 
